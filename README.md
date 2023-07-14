@@ -1,3 +1,3 @@
 # Langchain_deeplearning.ai
 
-it will awesome
+original source from [here](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
